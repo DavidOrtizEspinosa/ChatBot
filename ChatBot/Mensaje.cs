@@ -35,7 +35,7 @@ namespace ChatBot
 
         public Mensaje(String texto, TipoEmisor emisor)
         {
-            this.Texto = texto;
+            this.Texto = texto; 
             this.Emisor = emisor;
 
         }
